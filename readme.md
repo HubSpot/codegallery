@@ -1,4 +1,5 @@
-## ![HubSpot](https://cdn2.hubspot.net/hubfs/327485/HubSpot%20Wordmark%20-%20Full%20Color.png "HubSpot") Code Gallery
+![HubSpot](https://cdn2.hubspot.net/hubfs/327485/HubSpot%20Wordmark%20-%20Full%20Color.png "HubSpot")
+## Code Gallery
 
 ---
 
@@ -63,7 +64,8 @@ Currently the HubSpot Code Gallery accepts entries that fit within one or more o
 If you have questions, please email me at Luke (at) HubSpot.com or slack me @Luke in the [HubSpot Developer Community Slack](http://bit.ly/hubspot-dev-slack-signup-github "Join the HubSpot Developer Community Slack").
 
 ---
-## Not developing on ![HubSpot](https://cdn2.hubspot.net/hubfs/327485/HubSpot%20Wordmark%20-%20Full%20Color.png "HubSpot") CMS yet?
+![HubSpot](https://cdn2.hubspot.net/hubfs/327485/HubSpot%20Wordmark%20-%20Full%20Color.png "HubSpot")
+## Not developing on HubSpot CMS yet?
 We'd love to have you a part of our developer community!
-⋅⋅1. There are many reasons [why developers love building on HubSpot CMS](https://designers.hubspot.com/web-developers-love-hubspot-cms "Why develop on HubSpot CMS?").
-⋅⋅2. Get started for free with our [CMS Developer Discovery Kit](https://designers.hubspot.com/discoverykit "Get started building on HubSpot for free!"). 
+  -  There are many reasons [why developers love building on HubSpot CMS](https://designers.hubspot.com/web-developers-love-hubspot-cms "Why develop on HubSpot CMS?").
+  -  Get started for free with our [CMS Developer Discovery Kit](https://designers.hubspot.com/discoverykit "Get started building on HubSpot for free!"). 
