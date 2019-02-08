@@ -28,34 +28,34 @@ Categories are added as a comma separated list and each item in the list must ma
 Currently the HubSpot Code Gallery accepts entries that fit within one or more of these categories…
 
 #### Structure
-⋅⋅1. Menus and navigation
-⋅⋅2. Grids and content blocks
-⋅⋅3. Tabs and accordion
-⋅⋅4. Pagination
-⋅⋅5. Loops
-⋅⋅6. Lists
-⋅⋅7. Multilingual 
+⋅⋅* Menus and navigation
+⋅⋅* Grids and content blocks
+⋅⋅* Tabs and accordion
+⋅⋅* Pagination
+⋅⋅* Loops
+⋅⋅* Lists
+⋅⋅* Multilingual 
 #### Content
-⋅⋅1. Header / Heros
-⋅⋅2. Footer
-⋅⋅3. Charts and graphs
-⋅⋅4. Blog
-⋅⋅5. Maps
-⋅⋅6. Pricing tables
-⋅⋅7. Testimonials
-⋅⋅8. Calendar and events
-⋅⋅9. Team member 
+⋅⋅* Header / Heros
+⋅⋅* Footer
+⋅⋅* Charts and graphs
+⋅⋅* Blog
+⋅⋅* Maps
+⋅⋅* Pricing tables
+⋅⋅* Testimonials
+⋅⋅* Calendar and events
+⋅⋅* Team member 
 #### Components
-⋅⋅1. Ratings and reviews
-⋅⋅2. Buttons
-⋅⋅3. Forms
-⋅⋅4. Progress and loading
-⋅⋅5. Call to actions and lead capture
-⋅⋅6. Social
-⋅⋅7. Animation, scrolling and hover states
-⋅⋅8. HubDB
-⋅⋅9. Video
-⋅⋅10. Modals
+⋅⋅* Ratings and reviews
+⋅⋅* Buttons
+⋅⋅* Forms
+⋅⋅* Progress and loading
+⋅⋅* Call to actions and lead capture
+⋅⋅* Social
+⋅⋅* Animation, scrolling and hover states
+⋅⋅* HubDB
+⋅⋅* Video
+⋅⋅* Modals
 
 ---
 
@@ -63,7 +63,7 @@ Currently the HubSpot Code Gallery accepts entries that fit within one or more o
 If you have questions, please email me at Luke (at) HubSpot.com or slack me @Luke in the [HubSpot Developer Community Slack](http://bit.ly/hubspot-dev-slack-signup-github "Join the HubSpot Developer Community Slack").
 
 ---
-
+![HubSpot](https://cdn2.hubspot.net/hubfs/327485/HubSpot%20Wordmark%20-%20Full%20Color.png "HubSpot")
 ## Not developing on HubSpot CMS yet?
 We'd love to have you a part of our developer community!
 ⋅⋅1. There are many reasons [why developers love building on HubSpot CMS](https://designers.hubspot.com/web-developers-love-hubspot-cms "Why develop on HubSpot CMS?").
