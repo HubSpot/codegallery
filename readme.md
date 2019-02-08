@@ -1,4 +1,4 @@
-# ![HubSpot](https://cdn2.hubspot.net/hubfs/327485/HubSpot%20Wordmark%20-%20Full%20Color.png "HubSpot") Code Gallery
+## ![HubSpot](https://cdn2.hubspot.net/hubfs/327485/HubSpot%20Wordmark%20-%20Full%20Color.png "HubSpot") Code Gallery
 
 ---
 
@@ -28,34 +28,34 @@ Categories are added as a comma separated list and each item in the list must ma
 Currently the HubSpot Code Gallery accepts entries that fit within one or more of these categories…
 
 #### Structure
-⋅⋅* Menus and navigation
-⋅⋅* Grids and content blocks
-⋅⋅* Tabs and accordion
-⋅⋅* Pagination
-⋅⋅* Loops
-⋅⋅* Lists
-⋅⋅* Multilingual 
+  -  Menus and navigation
+  -  Grids and content blocks
+  -  Tabs and accordion
+  -  Pagination
+  -  Loops
+  -  Lists
+  -  Multilingual 
 #### Content
-⋅⋅* Header / Heros
-⋅⋅* Footer
-⋅⋅* Charts and graphs
-⋅⋅* Blog
-⋅⋅* Maps
-⋅⋅* Pricing tables
-⋅⋅* Testimonials
-⋅⋅* Calendar and events
-⋅⋅* Team member 
+  -  Header / Heros
+  -  Footer
+  -  Charts and graphs
+  -  Blog
+  -  Maps
+  -  Pricing tables
+  -  Testimonials
+  -  Calendar and events
+  -  Team member 
 #### Components
-⋅⋅* Ratings and reviews
-⋅⋅* Buttons
-⋅⋅* Forms
-⋅⋅* Progress and loading
-⋅⋅* Call to actions and lead capture
-⋅⋅* Social
-⋅⋅* Animation, scrolling and hover states
-⋅⋅* HubDB
-⋅⋅* Video
-⋅⋅* Modals
+  -  Ratings and reviews
+  -  Buttons
+  -  Forms
+  -  Progress and loading
+  -  Call to actions and lead capture
+  -  Social
+  -  Animation, scrolling and hover states
+  -  HubDB
+  -  Video
+  -  Modals
 
 ---
 
@@ -63,8 +63,7 @@ Currently the HubSpot Code Gallery accepts entries that fit within one or more o
 If you have questions, please email me at Luke (at) HubSpot.com or slack me @Luke in the [HubSpot Developer Community Slack](http://bit.ly/hubspot-dev-slack-signup-github "Join the HubSpot Developer Community Slack").
 
 ---
-![HubSpot](https://cdn2.hubspot.net/hubfs/327485/HubSpot%20Wordmark%20-%20Full%20Color.png "HubSpot")
-## Not developing on HubSpot CMS yet?
+## Not developing on ![HubSpot](https://cdn2.hubspot.net/hubfs/327485/HubSpot%20Wordmark%20-%20Full%20Color.png "HubSpot") CMS yet?
 We'd love to have you a part of our developer community!
 ⋅⋅1. There are many reasons [why developers love building on HubSpot CMS](https://designers.hubspot.com/web-developers-love-hubspot-cms "Why develop on HubSpot CMS?").
 ⋅⋅2. Get started for free with our [CMS Developer Discovery Kit](https://designers.hubspot.com/discoverykit "Get started building on HubSpot for free!"). 
