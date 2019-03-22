@@ -12,6 +12,9 @@ Please spend the time to create good documentation and step-by-step instructions
 * GIF Walk Throughs *
 It’s recommended to include GIF recordings to show specific setup steps. You can use [RecordIt](http://recordit.co/ "RecordIt App for screen recording and GIFs") chrome extension to record these quickly. 
 
+* Ready to Submit it? *
+When you're ready to submit, visit the [contribute to the Code Gallery](https://hubs.ly/H0h79hk0) page to submit your entry. 
+
 ## Coded files (html, css and javascript)
 .html, .css and .js files will be picked up automatically regardless of filename.
 Files in each category will be listed in alphabetical order on the code gallery website.
