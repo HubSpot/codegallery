@@ -1,0 +1,28 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.card {
+  flex: 0 1 320px;
+  display: flex;
+  margin: 1rem 0;
+}
+.card__image {
+  flex: 0 0 30px;
+}
+.card__text {
+  flex: 1 1 100%;
+  padding: 0 1rem;
+}
+
+.card__text h4 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.card:after {
+  content: '';
+  flex: auto;
+}
+
