@@ -15,8 +15,19 @@ It’s recommended to include GIF recordings to show specific setup steps. You c
 * Ready to Submit it? *
 When you're ready to submit, visit the [contribute to the Code Gallery](https://hubs.ly/H0h79hk0) page to submit your entry. 
 
-## Coded files (html, css and javascript)
-.html, .css and .js files will be picked up automatically regardless of filename.
+## Code
+
+The code gallery takes two types of submissions currently:
+
+1. Modules (recommended) - fully functional v2 modules
+2. Snippets - snippets of code that are intended to be used in coded templates such as blog listing snippets, HubDB dynamic page templates, and other techniques.
+
+For modules, the structure of the files must match the structure used when working with a module via [FTP](https://designers.hubspot.com/docs/tools/hubspot-ftp). This is necessary so that it is easy for a developer that is browsing the code gallery to try out one of the entries. See [Sample.module](./Sample.module) for an example.
+
+Notes:
+- Remove `module_id` and `portal_id` from `meta.json` if copying from FTP
+- Consider using placeholder images instead of images from the HubSpot file manager
+
 Files in each category will be listed in alphabetical order on the code gallery website.
 
 ## Screenshots
