@@ -68,11 +68,11 @@ Currently the HubSpot Code Gallery accepts entries that fit within one or more o
 If you’ve never used it before, GitHub is well worth your investment of time to learn how to use and is fairly easy to pick up. 
 
 Here are a few resources you can use to learn GitHub:
-[GitHub Guide](https://guides.github.com/)
-[GitHub Labs](https://lab.github.com/)
-[GitHub’s learning resources](https://help.github.com/en/articles/git-and-github-learning-resources)
-[Git Started with GitHub (uDemy)](https://www.udemy.com/git-started-with-github/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Wp0yrvDl0Rf2eL56HFKvJw&LSNPUBID=JVFxdTr9V80)
-[Short and Sweet: Getting started with Git and GitHub (uDemy)](https://www.udemy.com/short-and-sweet-get-started-with-git-and-github-right-now/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-fOFUeskz2UizmeChdvWi2g&LSNPUBID=JVFxdTr9V80)
+ - [GitHub Guide](https://guides.github.com/)
+ - [GitHub Labs](https://lab.github.com/)
+ - [GitHub’s learning resources](https://help.github.com/en/articles/git-and-github-learning-resources)
+ - [Git Started with GitHub (uDemy)](https://www.udemy.com/git-started-with-github/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Wp0yrvDl0Rf2eL56HFKvJw&LSNPUBID=JVFxdTr9V80)
+ - [Short and Sweet: Getting started with Git and GitHub (uDemy)](https://www.udemy.com/short-and-sweet-get-started-with-git-and-github-right-now/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-fOFUeskz2UizmeChdvWi2g&LSNPUBID=JVFxdTr9V80)
 
 **I’ve updated my GitHub Repo, will it sync with my existing Code Gallery entry?**
 Yes, it should sync. If you do not see your updates sync in 24 hours please let us know. 
