@@ -13,7 +13,10 @@ Please spend the time to create good documentation and step-by-step instructions
 It’s recommended to include GIF recordings to show specific setup steps. You can use [RecordIt](http://recordit.co/ "RecordIt App for screen recording and GIFs") chrome extension to record these quickly. 
 
 *Ready to Submit it?*
-When you're ready to submit, visit the [contribute to the Code Gallery](https://hubs.ly/H0h79hk0) page to submit your entry. 
+When you're ready to submit, visit the [contribute to the Code Gallery](https://hubs.ly/H0h79hk0) page to submit your entry.
+
+*Once submitted, your entry will be reviewed before publishing*
+To keep quality high and protect against any malicious activity, we review all entries before publishing them live in the Code Gallery. We try to do this as fast as possible, however, this is a voulenteer effor - please allow up to 7-10 business days. :) Thanks for your patience.   
 
 ## Code
 
@@ -75,6 +78,9 @@ Currently the HubSpot Code Gallery accepts entries that fit within one or more o
 ---
 ## Frequently Asked Questions
 
+**Are new Code Gallery entries reviewed before being pubslished?**
+Yes. To keep quality high and protect against any malicious activity, we review all entries before publishing them in the Code Gallery. We try to do this as fast as possible, however, this is a voulenteer effor - please allow up to 7-10 business days. :) Thanks for your patience.  
+
 **I’ve never used GitHub before - what’s the best way to learn how to use it?**
 If you’ve never used it before, GitHub is well worth your investment of time to learn how to use and is fairly easy to pick up. 
 
@@ -89,13 +95,16 @@ Here are a few resources you can use to learn GitHub:
 Yes, it should sync. If you do not see your updates sync in 24 hours please let us know. 
 
 **Can I install a Code Gallery entry directly into my portal?**
-We do not have a one-button install at this point. You will need to manually copy/paste the code and module structure in. We understand this is not ideal and are actively working on a better solution. :)
+We do not have a one-button install at this point. You will need to either 1) Download the module locally and push to a portal using the [HubSpot local development tooling](https://designers.hubspot.com/docs/tools/local-development) - [see this video](https://hubspot-52.wistia.com/medias/miazyawt4y)
 
 **How do I delete my Code Gallery entry or account?**
-Please contact us ( luke -at- hubspot.com ) to delete your Code Gallery entries or your account. Currently, there is no way for users to self-delete an entry. We are exploring this for the future. 
+Please contact us ( luke -at- hubspot -dot- com ) to delete your Code Gallery entries or your account. Currently, there is no way for users to self-delete an entry. We are exploring this for the future. 
+
+**Can I download a Code Gallery module to my local machine to edit? Can I then push the edited module to my HubSpot Portal?**
+Yes! With the [Hubspot Local Development tooling](https://designers.hubspot.com/docs/tools/local-development), it is possible. We created a short video on how to do this --> [WATCH IT](https://hubspot-52.wistia.com/medias/miazyawt4y)
 
 **If I delete the GitHub repo, will it delete the entry from the Code Gallery?**
-If you delete the original GitHub repo, it will not remove it from the Code Gallery. Currently, the only way to remove them is manually by our admins. We’re happy to do it, just contact us ( luke -at- hubspot.com ). :) 
+If you delete the original GitHub repo, it will not remove it from the Code Gallery. Currently, the only way to remove them is manually by our admins. We’re happy to do it, just contact us ( luke -at- hubspot -dot- com ). :) 
 
 **If I rename the GitHub repo, will it beak the associated entry in the Code Gallery?**
 Nope. We use your repo ID to organize everything. 
